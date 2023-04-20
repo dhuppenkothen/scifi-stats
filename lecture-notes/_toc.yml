@@ -1,0 +1,14 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: probabilities
+- file: distributions
+- file: statistical-tests
+- file: maximum-likelihood
+- file: bayes
+- file: sampling
+- file: machine-learning
+- file: ethics
